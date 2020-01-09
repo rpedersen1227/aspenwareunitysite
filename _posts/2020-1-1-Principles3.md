@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Principles 3
+published: true
 ---
 
-Description 
+## Description
+Testing the prose editor
